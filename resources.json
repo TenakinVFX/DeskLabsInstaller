@@ -24,5 +24,15 @@
     "description": "Light Mode Theme for Lyriq",
     "downloadUrl": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsResources/refs/heads/main/Light%20Mode.LQTheme",
     "downloadCount": 310,
-    "accentColor": "#2ecc71"  }
+    "accentColor": "#2ecc71"
+  },
+  {
+    "id": "Editor's-Resources",
+    "name": "Editor's Resources",
+    "appName": "Lynkr",
+    "description": "Links to useful resources for video editors",
+    "downloadUrl": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsResources/refs/heads/main/Editor's%20Resources.lynk",
+    "downloadCount": 89,
+    "accentColor": "#4a9eff"
+  },
 ]
