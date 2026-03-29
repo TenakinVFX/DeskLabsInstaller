@@ -22,7 +22,7 @@
     "name": "Light Mode",
     "appName": "Lyriq",
     "description": "Light Mode Theme for Lyriq",
-    "downloadUrl": "https://github.com/YOUR_ORG/YOUR_REPO/releases/download/v1.0/starter-pack.zip",
+    "downloadUrl": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsResources/refs/heads/main/Light%20Mode.LQTheme",
     "downloadCount": 310,
     "accentColor": "#2ecc71"  }
 ]
